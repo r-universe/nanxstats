@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "ggsci",
-    "oncran": true
-  },
-  {
     "package": "grex",
     "oncran": true
   },
@@ -38,8 +34,5 @@
   {
     "package": "RECA",
     "oncran": true
-  },
-  {
-    "package": "Rcpi"
   }
 ]
