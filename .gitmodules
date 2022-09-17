@@ -53,8 +53,3 @@
 	url = https://github.com/nanxstats/reca
 	shallow = true
 	registered = true
-[submodule "Rcpi"]
-	path = Rcpi
-	url = https://github.com/nanxstats/rcpi
-	shallow = true
-	registered = true

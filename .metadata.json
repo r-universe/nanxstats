@@ -38,8 +38,5 @@
   {
     "package": "RECA",
     "oncran": true
-  },
-  {
-    "package": "Rcpi"
   }
 ]
