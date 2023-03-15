@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "enpls"]
-	path = enpls
-	url = https://github.com/nanxstats/enpls
-	shallow = true
-	registered = true
 [submodule "ggsci"]
 	path = ggsci
 	url = https://github.com/nanxstats/ggsci
-	shallow = true
-	registered = true
-[submodule "grex"]
-	path = grex
-	url = https://github.com/nanxstats/grex
-	shallow = true
-	registered = true
-[submodule "hdnom"]
-	path = hdnom
-	url = https://github.com/nanxstats/hdnom
-	shallow = true
-	registered = true
-[submodule "liftr"]
-	path = liftr
-	url = https://github.com/nanxstats/liftr
 	shallow = true
 	registered = true
 [submodule "msaenet"]
@@ -38,14 +18,14 @@
 	url = https://github.com/nanxstats/ohpl
 	shallow = true
 	registered = true
-[submodule "oneclust"]
-	path = oneclust
-	url = https://github.com/nanxstats/oneclust
+[submodule "enpls"]
+	path = enpls
+	url = https://github.com/nanxstats/enpls
 	shallow = true
 	registered = true
-[submodule "protr"]
-	path = protr
-	url = https://github.com/nanxstats/protr
+[submodule "grex"]
+	path = grex
+	url = https://github.com/nanxstats/grex
 	shallow = true
 	registered = true
 [submodule "RECA"]
@@ -53,8 +33,28 @@
 	url = https://github.com/nanxstats/reca
 	shallow = true
 	registered = true
+[submodule "liftr"]
+	path = liftr
+	url = https://github.com/nanxstats/liftr
+	shallow = true
+	registered = true
+[submodule "hdnom"]
+	path = hdnom
+	url = https://github.com/nanxstats/hdnom
+	shallow = true
+	registered = true
+[submodule "oneclust"]
+	path = oneclust
+	url = https://github.com/nanxstats/oneclust
+	shallow = true
+	registered = true
 [submodule "Rcpi"]
 	path = Rcpi
 	url = https://github.com/nanxstats/rcpi
+	shallow = true
+	registered = true
+[submodule "protr"]
+	path = protr
+	url = https://github.com/nanxstats/protr
 	shallow = true
 	registered = true

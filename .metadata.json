@@ -1,22 +1,6 @@
 [
   {
-    "package": "enpls",
-    "oncran": true
-  },
-  {
     "package": "ggsci",
-    "oncran": true
-  },
-  {
-    "package": "grex",
-    "oncran": true
-  },
-  {
-    "package": "hdnom",
-    "oncran": true
-  },
-  {
-    "package": "liftr",
     "oncran": true
   },
   {
@@ -28,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "oneclust",
+    "package": "enpls",
     "oncran": true
   },
   {
-    "package": "protr",
+    "package": "grex",
     "oncran": true
   },
   {
@@ -40,6 +24,22 @@
     "oncran": true
   },
   {
+    "package": "liftr",
+    "oncran": true
+  },
+  {
+    "package": "hdnom",
+    "oncran": true
+  },
+  {
+    "package": "oneclust",
+    "oncran": true
+  },
+  {
     "package": "Rcpi"
+  },
+  {
+    "package": "protr",
+    "oncran": true
   }
 ]
