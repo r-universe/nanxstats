@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OHPL"]
+	path = OHPL
+	url = https://github.com/nanxstats/ohpl
+[submodule "RECA"]
+	path = RECA
+	url = https://github.com/nanxstats/reca
+[submodule "Rcpi"]
+	path = Rcpi
+	url = https://github.com/nanxstats/rcpi
 [submodule "enpls"]
 	path = enpls
 	url = https://github.com/nanxstats/enpls
@@ -20,18 +29,9 @@
 [submodule "msaenet"]
 	path = msaenet
 	url = https://github.com/nanxstats/msaenet
-[submodule "OHPL"]
-	path = OHPL
-	url = https://github.com/nanxstats/ohpl
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/nanxstats/oneclust
 [submodule "protr"]
 	path = protr
 	url = https://github.com/nanxstats/protr
-[submodule "Rcpi"]
-	path = Rcpi
-	url = https://github.com/nanxstats/rcpi
-[submodule "RECA"]
-	path = RECA
-	url = https://github.com/nanxstats/reca
