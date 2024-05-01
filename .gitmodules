@@ -35,3 +35,6 @@
 [submodule "protr"]
 	path = protr
 	url = https://github.com/nanxstats/protr
+[submodule "stackgbm"]
+	path = stackgbm
+	url = https://github.com/nanxstats/stackgbm
