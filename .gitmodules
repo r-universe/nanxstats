@@ -8,9 +8,6 @@
 [submodule "RECA"]
 	path = RECA
 	url = https://github.com/nanxstats/reca
-[submodule "Rcpi"]
-	path = Rcpi
-	url = https://github.com/nanxstats/rcpi
 [submodule "enpls"]
 	path = enpls
 	url = https://github.com/nanxstats/enpls
