@@ -29,6 +29,9 @@
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/nanxstats/oneclust
+[submodule "pkgdown.offline"]
+	path = pkgdown.offline
+	url = https://github.com/nanxstats/pkgdown.offline
 [submodule "protr"]
 	path = protr
 	url = https://github.com/nanxstats/protr
