@@ -17,6 +17,9 @@
 [submodule "grex"]
 	path = grex
 	url = https://github.com/nanxstats/grex
+[submodule "gsDesignTune"]
+	path = gsDesignTune
+	url = https://github.com/nanxstats/gsdesigntune
 [submodule "hdnom"]
 	path = hdnom
 	url = https://github.com/nanxstats/hdnom
