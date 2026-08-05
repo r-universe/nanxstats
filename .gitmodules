@@ -44,3 +44,6 @@
 [submodule "stackgbm"]
 	path = stackgbm
 	url = https://github.com/nanxstats/stackgbm
+[submodule "zmij"]
+	path = zmij
+	url = https://github.com/nanxstats/zmij
