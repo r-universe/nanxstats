@@ -26,6 +26,9 @@
 [submodule "liftr"]
 	path = liftr
 	url = https://github.com/nanxstats/liftr
+[submodule "liteformats"]
+	path = liteformats
+	url = https://github.com/nanxstats/liteformats
 [submodule "msaenet"]
 	path = msaenet
 	url = https://github.com/nanxstats/msaenet
