@@ -41,6 +41,9 @@
 [submodule "protr"]
 	path = protr
 	url = https://github.com/nanxstats/protr
+[submodule "shinygenui"]
+	path = shinygenui
+	url = https://github.com/nanxstats/shinygenui
 [submodule "ssw"]
 	path = ssw
 	url = https://github.com/nanxstats/ssw-r
