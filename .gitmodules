@@ -44,6 +44,9 @@
 [submodule "shinygenui"]
 	path = shinygenui
 	url = https://github.com/nanxstats/shinygenui
+[submodule "shinysnap"]
+	path = shinysnap
+	url = https://github.com/nanxstats/shinysnap
 [submodule "ssw"]
 	path = ssw
 	url = https://github.com/nanxstats/ssw-r
